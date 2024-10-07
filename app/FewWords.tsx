@@ -1,13 +1,12 @@
 import React, { useState } from "react";
 import { Text, View, StyleSheet, TouchableOpacity, Image, TextInput } from "react-native";
-import { useNavigation } from "@react-navigation/native"; // Import useNavigation
-import quizData from "../quizdata"; // Adjust path as needed
+import { useNavigation } from "@react-navigation/native"; 
+import quizData from "../quizdata"; 
 
-// Define types for quiz options and questions
 interface Option {
   id: number;
   text: string;
-  image: any; // Change 'any' to a specific type if you know it
+  image: any; 
 }
 
 interface Question {
@@ -17,14 +16,12 @@ interface Question {
   correctAnswer?: string;
 }
 
-// Type for the quiz data array
 type QuizData = Question[];
 
-// Define the quizData type
 const quiz: QuizData = quizData;
 
 const FewWords: React.FC = () => {
-  const navigation = useNavigation(); // Initialize navigation
+  const navigation = useNavigation(); 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [userAnswer, setUserAnswer] = useState("");
@@ -64,7 +61,7 @@ const FewWords: React.FC = () => {
       <View style={styles.container}>
         <Text style={styles.finalScore}>Your Score: {score}</Text>
         <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
-          <Text style={styles.arrowText}>Go Back Home →</Text> {/* Arrow symbol */}
+          <Text style={styles.arrowText}>Home</Text>
         </TouchableOpacity>
       </View>
     );
@@ -73,7 +70,6 @@ const FewWords: React.FC = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.question}>{currentQuestion.question}</Text>
-
       {currentQuestion.options ? (
         <View style={styles.optionsContainer}>
           {currentQuestion.options.map((option) => (
@@ -106,10 +102,8 @@ const FewWords: React.FC = () => {
           )}
         </View>
       )}
-
-      {/* Arrow Button to navigate to HindiFlashcards */}
       <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
-        <Text style={styles.arrowText}>Go Back Home →</Text> {/* Arrow symbol */}
+        <Text style={styles.arrowText}>Home</Text>
       </TouchableOpacity>
     </View>
   );
@@ -182,7 +176,7 @@ const styles = StyleSheet.create({
   },
   arrowButton: {
     position: "absolute",
-    bottom: 30, // Adjust to position above the bottom edge
+    bottom: 30, 
     backgroundColor: "#3884fd",
     padding: 10,
     borderRadius: 5,

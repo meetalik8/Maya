@@ -2,6 +2,10 @@
 import { NavigatorScreenParams } from '@react-navigation/native';
 
 export type RootStackParamList = {
-  Welcome: undefined; // Define parameters for each screen
-  ProficiencySelection: undefined; // Add other screens as necessary
+  index: undefined; // Parameters for Home screen
+  ProficiencySelection: undefined; // Parameters for Proficiency Selection screen
+  Beginner: undefined; // Parameters for Beginner screen
+  FewWords: undefined; // Parameters for Few Words screen
+  HindiFlashcards: undefined; // Parameters for Hindi Flashcards screen
 };
+
