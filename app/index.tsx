@@ -1,24 +1,66 @@
-import React from "react";
-import { Text, View, StyleSheet, TouchableOpacity, Image } from "react-native";
-import { useNavigation } from "@react-navigation/native"; // Import useNavigation if you want to navigate
+import React, { useState } from "react";
+import { Text, View, StyleSheet, TouchableOpacity, Image, Animated, StatusBar } from "react-native";
+import { useNavigation } from "@react-navigation/native"; // Import useNavigation
 
 const WelcomeScreen = () => {
-  const navigation = useNavigation(); // Get navigation object
+  const navigation = useNavigation(); // Initialize navigation
+  const [selectedLanguage, setSelectedLanguage] = useState(null);
+  const scaleValueHindi = new Animated.Value(1);
+  const scaleValueMarathi = new Animated.Value(1);
+
+  const handleLanguagePress = (language, scaleValue) => {
+    setSelectedLanguage(language);
+
+    // Animation for the flashcard
+    Animated.sequence([
+      Animated.timing(scaleValue, {
+        toValue: 1.2,
+        duration: 150,
+        useNativeDriver: true,
+      }),
+      Animated.timing(scaleValue, {
+        toValue: 1,
+        duration: 150,
+        useNativeDriver: true,
+      }),
+    ]).start(() => {
+      // Navigate to Proficiency screen after animation completes
+      navigation.navigate("ProficiencySelection");
+    });
+  };
 
   return (
     <View style={styles.container}>
-      <Text style={styles.welcomeText}>Welcome to Maya!</Text>
-      <Image
-        source={require("../assets/logo.png")} // Adjust the path to your logo image
-        style={styles.logo}
-      />
-      <Text style={styles.subtitle}>Your Indian language learning app</Text>
-      <TouchableOpacity
-        style={styles.getStartedButton}
-        onPress={() => navigation.navigate("ProficiencySelection")} // Navigate to ProficiencySelection screen
-      >
-        <Text style={styles.buttonText}>Get Started</Text>
-      </TouchableOpacity>
+      <View style={styles.navbar}>
+        <Text style={styles.navIcon}>☰</Text>
+        <Image source={require('../assets/logo-nobg.png')} style={styles.logo} />
+      </View>
+
+      <Image source={require('../assets/logo-nobg.png')} style={styles.topImage} />
+      <Text style={styles.heading}>Welcome to Maya!</Text>
+      <Text style={styles.subheading}>An Indian Language Learning App</Text>
+      <Text style={styles.getStartedText}>Let's get started!</Text>
+      <Text style={[styles.subheading, styles.boldSubheading]}>What language do you want to learn?</Text>
+
+      <View style={styles.languageContainer}>
+        {/* Hindi Flashcard */}
+        <TouchableOpacity onPress={() => handleLanguagePress('Hindi', scaleValueHindi)}>
+          <Animated.View style={[styles.flashcard, { transform: [{ scale: scaleValueHindi }] }]}>
+            <Image source={require('../assets/hindi.png')} style={styles.languageImage} />
+            <Text style={styles.languageText}>Hindi</Text>
+          </Animated.View>
+        </TouchableOpacity>
+
+        {/* Marathi Flashcard */}
+        <TouchableOpacity onPress={() => handleLanguagePress('Marathi', scaleValueMarathi)}>
+          <Animated.View style={[styles.flashcard, { transform: [{ scale: scaleValueMarathi }] }]}>
+            <Image source={require('../assets/marathi.png')} style={styles.languageImage} />
+            <Text style={styles.languageText}>Marathi</Text>
+          </Animated.View>
+        </TouchableOpacity>
+      </View>
+
+      <StatusBar style="auto" />
     </View>
   );
 };
@@ -26,38 +68,78 @@ const WelcomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#3884fd", 
-    alignItems: "center",
-    justifyContent: "center",
-    padding: 20,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
-  welcomeText: {
-    fontSize: 30,
-    fontWeight: "bold",
-    color: "#FFFFFF", 
-    marginBottom: 20,
+  navbar: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    width: '100%',
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    backgroundColor: '#f8f8f8',
+    position: 'absolute',
+    top: 0,
+  },
+  navIcon: {
+    fontSize: 24,
   },
   logo: {
-    width: 200, 
-    height: 180, 
-    marginBottom: 20,
+    width: 50,
+    height: 50,
   },
-  subtitle: {
-    fontSize: 18,
-    color: "#F2D16A", // Yellow color
-    marginBottom: 30,
-    textAlign: "center",
+  topImage: {
+    width: 150, // Increased size
+    height: 150, // Increased size
+    marginBottom: 10,
+    marginTop: 10, // Adjusted for spacing
   },
-  getStartedButton: {
-    backgroundColor: "#F2D16A", // Yellow background for button
-    paddingVertical: 15,
-    paddingHorizontal: 30,
+  heading: {
+    fontSize: 28, // Increased font size
+    fontWeight: 'bold',
+    color: '#3884fd', // Blue color
+    marginBottom: 5,
+  },
+  subheading: {
+    fontSize: 16,
+    color: '#000', // Black color
+    marginBottom: 10, // Reduced margin
+  },
+  boldSubheading: {
+    fontWeight: 'bold', // Bold for "What language do you want to learn?"
+  },
+  getStartedText: {
+    fontSize: 16,
+    color: '#000', // Black color
+    marginBottom: 10, // Reduced margin
+    fontWeight: 'normal', // Normal weight for the get started text
+  },
+  languageContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    width: '100%',
+  },
+  flashcard: {
+    width: 150,
+    height: 200,
+    backgroundColor: '#F2D16A', // Blue color
     borderRadius: 10,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginHorizontal: 10,
+    elevation: 5,
   },
-  buttonText: {
-    color: "#000000", // Black text color
+  languageImage: {
+    width: 120,
+    height: 120,
+    marginBottom: 10,
+  },
+  languageText: {
     fontSize: 18,
-    fontWeight: "bold",
+    fontWeight: 'bold',
+    color: '#000',
   },
 });
 

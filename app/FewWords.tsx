@@ -1,22 +1,44 @@
 import React, { useState } from "react";
-import { Text, View, StyleSheet, TouchableOpacity, Image, TextInput} from "react-native";
-import quizData from "../quizdata.js"; 
+import { Text, View, StyleSheet, TouchableOpacity, Image, TextInput } from "react-native";
+import { useNavigation } from "@react-navigation/native"; // Import useNavigation
+import quizData from "../quizdata"; // Adjust path as needed
 
-const FewWords = () => {
+// Define types for quiz options and questions
+interface Option {
+  id: number;
+  text: string;
+  image: any; // Change 'any' to a specific type if you know it
+}
+
+interface Question {
+  question: string;
+  options?: Option[];
+  correctAnswerId?: number;
+  correctAnswer?: string;
+}
+
+// Type for the quiz data array
+type QuizData = Question[];
+
+// Define the quizData type
+const quiz: QuizData = quizData;
+
+const FewWords: React.FC = () => {
+  const navigation = useNavigation(); // Initialize navigation
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [userAnswer, setUserAnswer] = useState("");
-   const [isAnswerCorrect, setIsAnswerCorrect] = useState(null);
+  const [isAnswerCorrect, setIsAnswerCorrect] = useState<boolean | null>(null);
 
-  const handleOptionPress = (optionId: Number) => {
-    if (optionId === quizData[currentQuestionIndex].correctAnswerId) {
+  const handleOptionPress = (optionId: number) => {
+    if (optionId === quiz[currentQuestionIndex].correctAnswerId) {
       setScore(score + 1);
     }
     goToNextQuestion();
   };
 
   const handleSubmitAnswer = () => {
-    const currentQuestion = quizData[currentQuestionIndex];
+    const currentQuestion = quiz[currentQuestionIndex];
     if (
       currentQuestion.correctAnswer &&
       userAnswer.toLowerCase() === currentQuestion.correctAnswer.toLowerCase()
@@ -27,7 +49,7 @@ const FewWords = () => {
       setIsAnswerCorrect(false);
     }
     goToNextQuestion();
-    setUserAnswer(""); 
+    setUserAnswer("");
   };
 
   const goToNextQuestion = () => {
@@ -35,12 +57,15 @@ const FewWords = () => {
     setIsAnswerCorrect(null);
   };
 
-  const currentQuestion = quizData[currentQuestionIndex];
+  const currentQuestion = quiz[currentQuestionIndex];
 
   if (!currentQuestion) {
     return (
       <View style={styles.container}>
         <Text style={styles.finalScore}>Your Score: {score}</Text>
+        <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
+          <Text style={styles.arrowText}>Go Back Home →</Text> {/* Arrow symbol */}
+        </TouchableOpacity>
       </View>
     );
   }
@@ -81,6 +106,11 @@ const FewWords = () => {
           )}
         </View>
       )}
+
+      {/* Arrow Button to navigate to HindiFlashcards */}
+      <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
+        <Text style={styles.arrowText}>Go Back Home →</Text> {/* Arrow symbol */}
+      </TouchableOpacity>
     </View>
   );
 };
@@ -149,6 +179,17 @@ const styles = StyleSheet.create({
   feedback: {
     marginTop: 10,
     fontSize: 16,
+  },
+  arrowButton: {
+    position: "absolute",
+    bottom: 30, // Adjust to position above the bottom edge
+    backgroundColor: "#3884fd",
+    padding: 10,
+    borderRadius: 5,
+  },
+  arrowText: {
+    fontSize: 24,
+    color: "#FFF",
   },
 });
 
