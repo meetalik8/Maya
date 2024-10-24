@@ -1,0 +1,664 @@
+English,Hindi,Difficulty
+Hello,नमस्ते,Beginner
+Yes,हाँ,Beginner
+No,नहीं,Beginner
+What,क्या,Beginner
+How,कैसे,Beginner
+When,कब,Beginner
+Where,कहाँ,Beginner
+Good,अच्छा,Beginner
+Bad,खराब,Beginner
+That,वह,Beginner
+He,वह,Beginner
+She,वह,Beginner
+It,यह,Beginner
+Was,था,Beginner
+Is,है,Beginner
+Am,पूर्वाह्न,Beginner
+Or,या,Beginner
+You,आप,Beginner
+They,वे,Beginner
+Them,उन्हें,Beginner
+Sad,उदास,Beginner
+Right,सही,Beginner
+Left,बाएं,Beginner
+Wrong,गलत,Beginner
+Odd,विषम,Beginner
+Even,यहां तक की,Beginner
+Mom,माँ,Beginner
+Dad,पापा,Beginner
+Cousin,चचेरा,Beginner
+Sister,बहन,Beginner
+Here,यहाँ,Beginner
+There,वहाँ,Beginner
+Now,अब,Beginner
+If,अगर,Beginner
+But,लेकिन,Beginner
+Since,तब से,Beginner
+On,पर,Beginner
+In,में,Beginner
+Us,हम,Beginner
+Uncle,चाचा,Beginner
+Aunt,चाची,Beginner
+Wish,इच्छा,Beginner
+Wow,बहुत खूब,Beginner
+Some,कुछ,Beginner
+Few,कुछ,Beginner
+All,सभी,Beginner
+New,नया,Beginner
+Old,पुराना,Beginner
+Age,आयु,Beginner
+More,अधिक,Beginner
+Less,कम,Beginner
+Up,ऊपर,Beginner
+Down,नीचे,Beginner
+Look,देखना,Beginner
+See,देखना,Beginner
+Shine,चमक,Beginner
+Allow,अनुमति दें,Beginner
+Yuck,छी,Beginner
+Fever,बुखार,Beginner
+May be,शायद,Beginner
+Please,कृपया,Beginner
+Child,बच्चा,Beginner
+Dream,सपना,Beginner
+Flower,फूल,Beginner
+Heat,गर्मी,Beginner
+Trust,विश्वास,Beginner
+God,भगवान,Beginner
+Love,प्यार,Beginner
+Music,संगीत,Beginner
+Family,परिवार,Beginner
+Night,रात,Beginner
+Bath,नहाना,Beginner
+Self,खुद,Beginner
+Gift,उपहार,Beginner
+Idea,विचार,Beginner
+Life,ज़िंदगी,Beginner
+Sky,आकाश,Beginner
+Salty,नमकीन,Beginner
+Toy,खिलौने,Beginner
+Voice,आवाज़,Beginner
+Hope,आशा,Beginner
+Knowledge,ज्ञान,Beginner
+Festival,त्योहार,Beginner
+Ground,जमीन,Beginner
+Simple,सरल,Beginner
+Street,सड़क,Beginner
+Window,खिड़की,Beginner
+Table,मेज़,Beginner
+Chair,कुर्सी,Beginner
+Book,किताब,Beginner
+Pen,कलम,Beginner
+Bag,बैग,Beginner
+Fruit,फल,Beginner
+Vegetables,सब्ज़ियाँ,Beginner
+Water,पानी,Beginner
+Food,खाना,Beginner
+Coffee,कॉफी,Beginner
+Tea,चाय,Beginner
+Rice,चावल,Beginner
+Bread,ब्रेड,Beginner
+Milk,दूध,Beginner
+Ice,बर्फ,Beginner
+Sugar,चीनी,Beginner
+Salt,नमक,Beginner
+Oil,तेल,Beginner
+Fire,आग,Beginner
+Wind,हवा,Beginner
+Earth,पृथ्वी,Beginner
+Star,तारा,Beginner
+Moon,चाँद,Beginner
+Sun,सूरज,Beginner
+Rain,बारिश,Beginner
+Cloud,बादल,Beginner
+Light,रोशनी,Beginner
+Dark,अंधेरा,Beginner
+Color,रंग,Beginner
+Shape,आकार,Beginner
+Size,आकार,Beginner
+Move,चलाना,Beginner
+Stop,रुकना,Beginner
+Start,शुरू करना,Beginner
+Finish,समाप्त करना,Beginner
+Count,गिनती,Beginner
+Draw,चित्रित करना,Beginner
+Sing,गाना,Beginner
+Dance,नृत्य करना,Beginner
+Play,खेलना,Beginner
+Work,काम करना,Beginner
+Jump,कूदना,Beginner
+Walk,चलना,Beginner
+Run,दौड़ना,Beginner
+Sit,बैठना,Beginner
+Stand,खड़ा होना,Beginner
+Baby,बच्चा,Beginner
+Brother,भाई,Beginner
+Sister,बहन,Beginner
+Friend,दोस्त,Beginner
+Stranger,अजनबी,Beginner
+Neighbor,पड़ोसी,Beginner
+Teacher,शिक्षक,Beginner
+Student,छात्र,Beginner
+School,स्कूल,Beginner
+College,कॉलेज,Beginner
+University,विश्वविद्यालय,Beginner
+Bookstore,पुस्तकालय,Beginner
+Library,पुस्तकालय,Beginner
+Classroom,कक्षा,Beginner
+Homework,गृहकार्य,Beginner
+Lesson,पाठ,Beginner
+Test,परीक्षण,Beginner
+Exam,परीक्षा,Beginner
+Grade,ग्रेड,Beginner
+Project,परियोजना,Beginner
+Presentation,प्रस्तुति,Beginner
+Research,शोध,Beginner
+Science,विज्ञान,Beginner
+Math,गणित,Beginner
+History,इतिहास,Beginner
+Geography,भूगोल,Beginner
+Language,भाषा,Beginner
+Art,कला,Beginner
+Music,संगीत,Beginner
+Drama,नाटक,Beginner
+Dance,नृत्य,Beginner
+Sports,खेल,Beginner
+Game,खेल,Beginner
+Competition,प्रतियोगिता,Beginner
+Team,टीम,Beginner
+Coach,कोच,Beginner
+Player,खिलाड़ी,Beginner
+Victory,विजय,Beginner
+Defeat,हार,Beginner
+Challenge,चुनौती,Beginner
+Goal,लक्ष्य,Beginner
+Dream,सपना,Beginner
+Success,सफलता,Beginner
+Failure,असफलता,Beginner
+Effort,प्रयास,Beginner
+Achievement,उपलब्धि,Beginner
+Skill,कौशल,Beginner
+Talent,प्रतिभा,Beginner
+Ability,क्षमता,Beginner
+Strength,ताकत,Beginner
+Weakness,कमजोरी,Beginner
+Health,स्वास्थ्य,Beginner
+Happiness,खुशी,Beginner
+Sadness,उदासी,Beginner
+Fear,डर,Beginner
+Anger,गुस्सा,Beginner
+Love,प्यार,Beginner
+Trust,विश्वास,Beginner
+Respect,सम्मान,Beginner
+Kindness,दया,Beginner
+Generosity,उदारता,Beginner
+Patience,धैर्य,Beginner
+Gratitude,आभार,Beginner
+Peace,शांति,Beginner
+Joy,आनंद,Beginner
+Hope,आशा,Beginner
+Wisdom,ज्ञान,Beginner
+Brother,भाई,Intermediate
+Between,बीच में,Intermediate
+Good night,शुभ रात्रि,Intermediate
+thank you,धन्यवाद,Intermediate
+pleasure,आनंद,Intermediate
+why not,क्यों नहीं,Intermediate
+I am good,मैं अच्छा हूँ,Intermediate
+I am well,मैं ठीक हूं,Intermediate
+you tell,आप बताओ,Intermediate
+look there,वहाँ देखो,Intermediate
+may not,नहीं हो सकता है,Intermediate
+condition,स्थिति,Intermediate
+I love you,मुझे तुमसे प्यार है,Intermediate
+excuse me,माफ़ करें,Intermediate
+help me,मेरी सहायता करो,Intermediate
+I am tired,मैं थक गया हूँ,Intermediate
+I am going,मैं जा रहा हूँ,Intermediate
+whats up,क्या चल रहा है,Intermediate
+miss you,आपकी याद आ रही है,Intermediate
+I m sorry,मुझे माफ़ करें,Intermediate
+language,भाषा,Intermediate
+I hate you,मुझे आपसे नफ़रत है,Intermediate
+I am bored,मुझे ऊबन हो चुकी है,Intermediate
+Laughter,हँसी,Intermediate
+Happiness,ख़ुशी,Intermediate
+Wildlife,वन्यजीव,Intermediate
+Victory,विजय,Intermediate
+Knowledge,ज्ञान,Intermediate
+Freedom,स्वतंत्रता,Intermediate
+Festival,त्योहार,Intermediate
+God/Deity,भगवान/देवता,Intermediate
+Education,शिक्षा,Intermediate
+Fragrance,सुगंध,Intermediate
+Fairies,परियों,Intermediate
+To meet,भेंट करना,Intermediate
+Decision,फ़ैसला,Intermediate
+Journey,यात्रा,Intermediate
+Kingdom,साम्राज्य,Intermediate
+Fearless,निडर,Intermediate
+Illusion,माया,Intermediate
+Blessing,आशीर्वाद,Intermediate
+Studies,अध्ययन करते हैं,Intermediate
+Teacher,अध्यापक,Intermediate
+Student,विद्यार्थी,Intermediate
+Curriculum,पाठ्यक्रम,Intermediate
+Professor,प्रोफ़ेसर,Intermediate
+University,विश्वविद्यालय,Intermediate
+Library,पुस्तकालय,Intermediate
+Greeting,अभिवादन,Intermediate
+Morning,सुबह,Intermediate
+Evening,शाम,Intermediate
+Success,सफलता,Intermediate
+Problem,संकट,Intermediate
+Accused,आरोपी,Intermediate
+Certain,निश्चित,Intermediate
+Diction,शब्द-चयन,Intermediate
+Metrics,मेट्रिक्स,Intermediate
+Trachea,ट्रेकिआ,Intermediate
+Velaric,वेलारिक,Intermediate
+Whereby,जिसके तहत,Intermediate
+Assess,आकलन,Intermediate
+Emphasis,ज़ोर,Intermediate
+Insights,अंतर्दृष्टि,Intermediate
+Literary,साहित्यिक,Intermediate
+Luminous,चमकदार,Intermediate
+Peculiar,विचित्र,Intermediate
+Friendship,मित्रता,Intermediate
+Adventure,साहसिकता,Intermediate
+Tradition,परंपरा,Intermediate
+Responsibility,ज़िम्मेदारी,Intermediate
+Motivation,प्रेरणा,Intermediate
+Creativity,रचनात्मकता,Intermediate
+Enthusiasm,उत्साह,Intermediate
+Satisfaction,संतोष,Intermediate
+Trust,विश्वास,Intermediate
+Connection,संबंध,Intermediate
+Collaboration,सहयोग,Intermediate
+Determination,दृढ़ संकल्प,Intermediate
+Reflection,प्रतिबिंब,Intermediate
+Inspiration,प्रेरणा,Intermediate
+Exploration,अन्वेषण,Intermediate
+Transformation,परिवर्तन,Intermediate
+Awareness,जागरूकता,Intermediate
+Understanding,समझ,Intermediate
+Growth,विकास,Intermediate
+Communication,संचार,Intermediate
+Strategy,रणनीति,Intermediate
+Observation,अवलोकन,Intermediate
+Curiosity,जिज्ञासा,Intermediate
+Resilience,लचीलापन,Intermediate
+Preparation,तैयारी,Intermediate
+Organization,संगठन,Intermediate
+Commitment,प्रतिबद्धता,Intermediate
+Progress,प्रगति,Intermediate
+Wisdom,बुद्धिमत्ता,Intermediate
+Flexibility,लचीलापन,Intermediate
+Authenticity,प्रामाणिकता,Intermediate
+Inclusiveness,समावेशिता,Intermediate
+Patience,धैर्य,Intermediate
+Reliability,विश्वसनीयता,Intermediate
+Transparency,पारदर्शिता,Intermediate
+Accountability,जवाबदेही,Intermediate
+Initiative,पहल,Intermediate
+Sustainability,स्थिरता,Intermediate
+Productivity,उत्पादकता,Intermediate
+Influence,प्रभाव,Intermediate
+Respect,सम्मान,Intermediate
+Support,समर्थन,Intermediate
+Empathy,सहानुभूति,Intermediate
+Participation,भागीदारी,Intermediate
+Dedication,समर्पण,Intermediate
+Clarity,स्पष्टता,Intermediate
+Efficiency,दक्षता,Intermediate
+Appreciation,सराहना,Intermediate
+Diversity,विविधता,Intermediate
+Involvement,भागीदारी,Intermediate
+Conflict,संघर्ष,Intermediate
+Critique,आलोचना,Intermediate
+Collaboration,सहयोग,Intermediate
+Creativity,रचनात्मकता,Intermediate
+Innovation,नवाचार,Intermediate
+Emotional,भावनात्मक,Intermediate
+Thoughtful,विचारशील,Intermediate
+Philosophy,दर्शनशास्त्र,Intermediate
+Obligation,अनुशासन,Intermediate
+Intuition,स्वाभाविक ज्ञान,Intermediate
+Crisis,संकट,Intermediate
+Perception,धारणा,Intermediate
+Networking,नेटवर्किंग,Intermediate
+Analysis,विश्लेषण,Intermediate
+Significance,महत्व,Intermediate
+Achievement,उपलब्धि,Intermediate
+Creativity,रचनात्मकता,Intermediate
+Focus,केंद्रित करना,Intermediate
+Vision,दृष्टि,Intermediate
+Supportive,समर्थक,Intermediate
+Endeavor,प्रयास,Intermediate
+Collaboration,सहयोग,Intermediate
+Curiosity,जिज्ञासा,Intermediate
+Insightful,अंतर्दृष्टिपूर्ण,Intermediate
+Dialogue,संवाद,Intermediate
+Contribute,योगदान देना,Intermediate
+Synergy,संयोग,Intermediate
+Aspiration,महत्वाकांक्षा,Intermediate
+Reflection,परावर्तन,Intermediate
+Engagement,सक्रिय भागीदारी,Intermediate
+Accomplishment,सफलता,Intermediate
+Perspective,दृष्टिकोण,Intermediate
+Trustworthiness,विश्वासयोग्यता,Intermediate
+Foresight,पूर्वदृष्टि,Intermediate
+Tolerance,सहिष्णुता,Intermediate
+Motivation,प्रेरणा,Intermediate
+Connection,संबंध,Intermediate
+Innovation,नवाचार,Intermediate
+Challenge,चुनौती,Intermediate
+Narrative,कथा,Intermediate
+Acquisition,अधिग्रहण,Intermediate
+Compromise,समझौता,Intermediate
+Imagination,कल्पना,Intermediate
+Exploration,अन्वेषण,Intermediate
+Influence,प्रभाव,Intermediate
+Collaboration,सहयोग,Intermediate
+Astonishing,आश्चर्यजनक,Intermediate
+Consequence,परिणाम,Intermediate
+Sincere,ईमानदार,Intermediate
+Confusion,भ्रम,Intermediate
+Essential,आवश्यक,Intermediate
+Diligent,मेहनती,Intermediate
+Frustration,निराशा,Intermediate
+Independence,स्वतंत्रता,Intermediate
+Challenge,चुनौती,Intermediate
+Preference,पसंद,Intermediate
+Perseverance,दृढ़ता,Intermediate
+Adaptation,अनुकूलन,Intermediate
+Compassion,करुणा,Intermediate
+Intelligence,बुद्धिमत्ता,Intermediate
+Motivation,प्रेरणा,Intermediate
+Cooperation,सहयोग,Intermediate
+Reputation,प्रतिष्ठा,Intermediate
+Exploration,अन्वेषण,Intermediate
+Fundamental,मौलिक,Intermediate
+Guidance,मार्गदर्शन,Intermediate
+Hesitation,हिचकिचाहट,Intermediate
+Negotiate,बातचीत करना,Intermediate
+Pursuit,प्रयास,Intermediate
+Resolution,समाधान,Intermediate
+Stimulation,उत्तेजना,Intermediate
+Application,आवेदन,Intermediate
+Concentration,ध्यान,Intermediate
+Crisis,संकट,Intermediate
+Foundation,नींव,Intermediate
+Management,प्रबंधन,Intermediate
+Presentation,प्रस्तुति,Intermediate
+Relevance,प्रासंगिकता,Intermediate
+Specification,विनिर्देश,Intermediate
+Interpretation,व्याख्या,Intermediate
+Validation,सत्यापन,Intermediate
+Observation,अवलोकन,Intermediate
+Expectation,अपेक्षा,Intermediate
+Transformation,रूपांतरण,Intermediate
+Abundance,प्रचुरता,Advanced
+Adversity,विपत्ति,Advanced
+Ambiguity,अस्पष्टता,Advanced
+Anomaly,असामान्यता,Advanced
+Apathy,उदासीनता,Advanced
+Assertion,दावा,Advanced
+Benevolence,दयालुता,Advanced
+Cognition,संज्ञान,Advanced
+Collaboration,सहयोग,Advanced
+Connotation,अर्थविस्तार,Advanced
+Conundrum,पहेली,Advanced
+Decipher,व्याख्या करना,Advanced
+Deficiency,कमी,Advanced
+Diligence,परिश्रम,Advanced
+Dissonance,असंगति,Advanced
+Empathy,सहानुभूति,Advanced
+Endeavor,प्रयास,Advanced
+Enigma,पहेली,Advanced
+Ephemeral,क्षणिक,Advanced
+Equilibrium,संतुलन,Advanced
+Euphoria,उत्साह,Advanced
+Exacerbate,बढ़ाना,Advanced
+Extrapolate,अनुमान लगाना,Advanced
+Fortitude,साहस,Advanced
+Futility,निरर्थकता,Advanced
+Grievance,शिकायत,Advanced
+Harmony,सामंजस्य,Advanced
+Hypothesis,परिकल्पना,Advanced
+Implication,निहितार्थ,Advanced
+Inertia,जड़ता,Advanced
+Innovation,नवाचार,Advanced
+Insightful,अंतर्दृष्टिपूर्ण,Advanced
+Integrity,सत्यनिष्ठा,Advanced
+Juxtaposition,संगति,Advanced
+Metaphor,उपमा,Advanced
+Nostalgia,पुरानी यादें,Advanced
+Paradigm,मॉडल,Advanced
+Perception,धारणा,Advanced
+Prodigy,प्रतिभा,Advanced
+Quantitative,मात्रात्मक,Advanced
+Rhetoric,बौद्धिक शैली,Advanced
+Resilience,लचीलापन,Advanced
+Serendipity,संयोग,Advanced
+Simplicity,सरलता,Advanced
+Skepticism,संशयवाद,Advanced
+Solitude,एकाकीपन,Advanced
+Subjective,व्यक्तिगत,Advanced
+Substantiate,साक्ष्य प्रस्तुत करना,Advanced
+Synergy,सहयोगात्मकता,Advanced
+Tenacity,दृढ़ता,Advanced
+Transcend,पार करना,Advanced
+Transparency,पारदर्शिता,Advanced
+Ubiquity,सर्वव्यापकता,Advanced
+Unprecedented,बेजोड़,Advanced
+Viability,कार्यक्षमता,Advanced
+Vulnerability,संवेदनशीलता,Advanced
+Whimsical,मनमौजी,Advanced
+Zeal,उत्साह,Advanced
+Abrogate,रद्द करना,Advanced
+Alleviate,कम करना,Advanced
+Anticipate,पूर्वानुमान करना,Advanced
+Articulate,स्पष्टता से बताना,Advanced
+Attenuate,घटाना,Advanced
+Circumvent,बचना,Advanced
+Coalesce,मिलाना,Advanced
+Collate,एकत्र करना,Advanced
+Concur,सहमत होना,Advanced
+Conflate,मिलाना,Advanced
+Defenestrate,खिड़की से बाहर फेंकना,Advanced
+Delineate,रेखांकन करना,Advanced
+Derive,निकालना,Advanced
+Disparate,भिन्न,Advanced
+Disseminate,फैलाना,Advanced
+Enunciate,स्पष्ट रूप से कहना,Advanced
+Escalate,बढ़ाना,Advanced
+Facilitate,आसान बनाना,Advanced
+Formulate,तैयार करना,Advanced
+Impede,रोकना,Advanced
+Invalidate,अमान्य करना,Advanced
+Mitigate,कम करना,Advanced
+Negotiate,बातचीत करना,Advanced
+Obfuscate,अस्पष्ट करना,Advanced
+Perpetuate,स्थायी बनाना,Advanced
+Postulate,पूर्वानुमान करना,Advanced
+Procrastinate,टालना,Advanced
+Rectify,सुधारना,Advanced
+Reiterate,दोहराना,Advanced
+Retrospect,पीछे देखना,Advanced
+Subvert,नष्ट करना,Advanced
+Transmute,रूपांतरित करना,Advanced
+Validate,सत्यापित करना,Advanced
+Altruism,परार्थवाद,Advanced
+Avarice,लोभ,Advanced
+Capricious,अनियमित,Advanced
+Clandestine,गुप्त,Advanced
+Copious,प्रचुर,Advanced
+Dearth,कमी,Advanced
+Eloquent,स्पष्ट,Advanced
+Enigmatic,रहस्यमय,Advanced
+Equitable,न्यायपूर्ण,Advanced
+Fervent,गर्मजोशी,Advanced
+Frivolous,तुच्छ,Advanced
+Harbinger,अग्रदूत,Advanced
+Ineffable,अवर्णनीय,Advanced
+Lethargic,सुस्त,Advanced
+Munificent,उदार,Advanced
+Nefarious,दुष्ट,Advanced
+Obsequious,चापलूस,Advanced
+Paradigmatic,उदाहरणात्मक,Advanced
+Perfunctory,औपचारिक,Advanced
+Quixotic,काल्पनिक,Advanced
+Redundant,अतिरिक्त,Advanced
+Salient,प्रमुख,Advanced
+Sanguine,आशावादी,Advanced
+Stalwart,दृढ़,Advanced
+Tenuous,कमजोर,Advanced
+Ubiquitous,सर्वव्यापी,Advanced
+Unobtrusive,ध्यान आकर्षित न करने वाला,Advanced
+Vicarious,प्रत्यायित,Advanced
+Voracious,लालची,Advanced
+Wistful,चिंताग्रस्त,Advanced
+Zealous,उत्साही,Advanced
+Autonomous,स्वतंत्र,Advanced
+Bombastic,भव्य,Advanced
+Capstone,शिखर,Advanced
+Dichotomy,द्वैत,Advanced
+Euphemism,दयालु शब्द,Advanced
+Idiosyncrasy,विशेषता,Advanced
+Juxtaposition,तुलना,Advanced
+Paradigm,ढांचा,Advanced
+Quagmire,दलदल,Advanced
+Rhapsody,आनंद का अनुभव,Advanced
+Synthesis,संश्लेषण,Advanced
+Transgression,उल्लंघन,Advanced
+Zenith,उच्चतम बिंदु,Advanced
+Aesthetic,सौंदर्यशास्त्र,Advanced
+Ethereal,दिव्य,Advanced
+Metamorphosis,रूपांतरण,Advanced
+Obsolete,अप्रचलित,Advanced
+Pragmatic,व्यावहारिक,Advanced
+Good morning,शुभ प्रभात,Advanced
+Good Evening,शुभ संध्या,Advanced
+how are you,आप कैसे हैं,Advanced
+nice to meet you,आपसे मिलकर अच्छा लगा,Advanced
+what are you doing,आप क्या कर रहे हो,Advanced
+where are you from,आप कहाँ से हैं,Advanced
+you are welcome,आपका स्वागत है,Advanced
+have a nice day,आपका दिन शुभ हो,Advanced
+see you later,बाद में मिलते हैं,Advanced
+this is an emergency,यह एक आपातकालीन स्थिति है,Advanced
+once upon a time,एक समय की बात है,Advanced
+enjoy your meal,अपने भोजन का आनंद लें,Advanced
+get well soon,जल्द स्वस्थ हो जाओ,Advanced
+god bless you,भगवान आपका भला करे,Advanced
+how old are you,आपकी आयु कितनी है,Advanced
+who are you,आप कौन हैं,Advanced
+where are you,आप कहां हैं,Advanced
+are you okay,तुम ठीक हो,Advanced
+are you hungry,क्या आप भूखे हैं?,Advanced
+how was your day,आपका दिन कैसा रहा,Advanced
+same to you,आपको भी,Advanced
+I understand,मैं समझता हूँ,Advanced
+I don't care,मुझे परवाह नहीं है,Advanced
+I don't know,मुझें नहीं पता,Advanced
+you are beautiful,तुम सुंदर हो,Advanced
+I admire you,मैं तुम्हारा प्रशंसक हूं,Advanced
+Education/learning,शिक्षा/शिक्षण,Advanced
+Primary Education,प्राथमिक शिक्षा,Advanced
+Secondary Education,माध्यमिक शिक्षा,Advanced
+Traditional school,पारंपरिक विद्यालय,Advanced
+Administrative Staff,प्रशासनिक कर्मचारी - वर्ग,Advanced
+Education Minister,शिक्षा मंत्री,Advanced
+encyclopedias,विश्वकोषों,Advanced
+imaginative,कल्पनाशील,Advanced
+indescribable,अवर्णनीय,Advanced
+international,अंतरराष्ट्रीय,Advanced
+multicultural,बहुसांस्कृतिक,Advanced
+postmodernism,उत्तर आधुनिकतावाद,Advanced
+relationships,संबंध,Advanced
+revolutionary,क्रांतिकारी,Advanced
+traditional,परंपरागत,Advanced
+transnational,अंतरराष्ट्रीय,Advanced
+unpredictable,अप्रत्याशित,Advanced
+affectionate,स्नेही,Advanced
+conventional,पारंपरिक,Advanced
+hallucinations,दु: स्वप्न,Advanced
+responsibility,ज़िम्मेदारी,Advanced
+simultaneous,एक साथ,Advanced
+systematical,व्यवस्थित,Advanced
+autobiographies,आत्मकथाएं,Advanced
+characteristics,विशेषताएँ,Advanced
+disillusionment,मोहभंग,Advanced
+inferiorisation,अधीनता,Advanced
+inquiries,जांच,Advanced
+interpersonal,अंतर-व्यक्तिगत,Advanced
+metaphors,उपमा,Advanced
+philosophy,दर्शनशास्त्र,Advanced
+persuasion,मनाने की कला,Advanced
+reinforcement,मजबूती,Advanced
+significant,महत्वपूर्ण,Advanced
+sophisticated,जटिल,Advanced
+surveillance,निगरानी,Advanced
+technology,प्रविधि,Advanced
+universities,विश्वविद्यालय,Advanced
+adaptation,अनुकूलन,Advanced
+analysis,विश्लेषण,Advanced
+application,आवेदन,Advanced
+classification,वर्गीकरण,Advanced
+communication,संचार,Advanced
+concepts,विचार,Advanced
+criteria,मानदंड,Advanced
+data,डेटा,Advanced
+evolution,विकास,Advanced
+interaction,अंतरक्रिया,Advanced
+interpretation,व्याख्या,Advanced
+manipulation,हेरफेर,Advanced
+research,अनुसंधान,Advanced
+synthesis,संश्लेषण,Advanced
+theory,सिद्धांत,Advanced
+variables,चर,Advanced
+differentiation,भिन्नता,Advanced
+elaboration,विस्तार,Advanced
+implications,निहितार्थ,Advanced
+information,जानकारी,Advanced
+investigation,जांच,Advanced
+knowledge,ज्ञान,Advanced
+perspective,दृष्टिकोण,Advanced
+principles,सिद्धांत,Advanced
+statistics,सांख्यिकी,Advanced
+transformation,रूपांतरण,Advanced
+interpretative,व्याख्यात्मक,Advanced
+indigenous,देशज,Advanced
+synergy,सहयोगात्मकता,Advanced
+narrative,कथा,Advanced
+interdisciplinary,अंतरविषयक,Advanced
+contribution,योगदान,Advanced
+accomplishment,अधिग्रहण,Advanced
+accessibility,सुलभता,Advanced
+agriculture,कृषि,Advanced
+anthropology,मानवशास्त्र,Advanced
+architecture,वास्तुकला,Advanced
+biochemistry,जैव रसायन,Advanced
+biotechnology,जैव प्रौद्योगिकी,Advanced
+calculus,कलन,Advanced
+chemistry,रसायन,Advanced
+computational,सांख्यिकीय,Advanced
+engineering,अभियांत्रिकी,Advanced
+environmental,पर्यावरणीय,Advanced
+ethics,नैतिकता,Advanced
+finance,वित्त,Advanced
+geography,भूगोल,Advanced
+geology,भूविज्ञान,Advanced
+history,इतिहास,Advanced
+literature,साहित्य,Advanced
+mathematics,गणित,Advanced
+meteorology,मौसम विज्ञान,Advanced
+philosophy,दर्शनशास्त्र,Advanced
+physics,भौतिकी,Advanced
+psychology,मनोविज्ञान,Advanced
+sociology,सामाजिक विज्ञान,Advanced
+statistics,सांख्यिकी,Advanced
+sustainability,स्थिरता,Advanced
+technology,प्रौद्योगिकी,Advanced
