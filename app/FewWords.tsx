@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Text, View, StyleSheet, TouchableOpacity, Image, TextInput } from "react-native";
-import { useNavigation } from "@react-navigation/native"; 
 import quizData from "../quizdata"; 
+import { router } from "expo-router";
 
 interface Option {
   id: number;
@@ -21,7 +21,6 @@ type QuizData = Question[];
 const quiz: QuizData = quizData;
 
 const FewWords: React.FC = () => {
-  const navigation = useNavigation(); 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [userAnswer, setUserAnswer] = useState("");
@@ -60,7 +59,7 @@ const FewWords: React.FC = () => {
     return (
       <View style={styles.container}>
         <Text style={styles.finalScore}>Your Score: {score}</Text>
-        <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
+        <TouchableOpacity style={styles.arrowButton} onPress={() => router.push("/Home")}>
           <Text style={styles.arrowText}>Home</Text>
         </TouchableOpacity>
       </View>
@@ -102,7 +101,7 @@ const FewWords: React.FC = () => {
           )}
         </View>
       )}
-      <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
+      <TouchableOpacity style={styles.arrowButton} onPress={() => router.push("/Home")}>
         <Text style={styles.arrowText}>Home</Text>
       </TouchableOpacity>
     </View>

@@ -1,12 +1,11 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
-import { useNavigation } from "@react-navigation/native"; // Import useNavigation
+import { useNavigation } from "@react-navigation/native"; 
 
 const Beginner = () => {
   const navigation = useNavigation();
 
   const handleFlashcardPress = () => {
-    // Navigate to the Hindi Flashcards screen when the button is pressed
     navigation.navigate("HindiFlashcards");
   };
 
