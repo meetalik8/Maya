@@ -13,6 +13,12 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
-, "app/ProficiencySelection.js", "app/index.js", "app/FewWords.js", "app/HindiFlashcards.js", "app/Beginner.js", "app/_layout.js"  ]
+    "expo-env.d.ts", 
+      "app/ProficiencySelection.js", 
+      "app/index.js", 
+      "app/SpeechRecognition.js", 
+      "app/HindiFlashcards.js", 
+      "app/Beginner.js", 
+      "app/_layout.js", 
+      "app/LearningModules.js"  ]
 }

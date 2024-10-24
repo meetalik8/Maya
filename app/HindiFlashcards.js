@@ -14,7 +14,6 @@ const hindiData = [
   { character: 'औ', pronunciation: 'au' },
   { character: 'अं', pronunciation: 'am' },
   { character: 'अः', pronunciation: 'ah' },
-  // Add more characters here
 ];
 
 const HindiFlashcards = () => {

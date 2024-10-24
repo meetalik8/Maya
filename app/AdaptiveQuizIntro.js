@@ -50,8 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-<<<<<<< HEAD
 export default AdaptiveQuizIntro;
-=======
-export default AdaptiveQuizIntro;
->>>>>>> 348e8fd22928b3d0d1bb1b1af724c972de6727ab

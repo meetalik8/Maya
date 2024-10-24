@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Image } from 'react-native';
 import questionsData from '../assets/proficiencyquestions.json'; // Importing JSON data
+import { useNavigation } from "@react-navigation/native";
 
 const AdaptiveQuiz = ({ route }) => {
   const language = route?.params?.language;
+  const navigation = useNavigation();
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [currentOptions, setCurrentOptions] = useState([]);

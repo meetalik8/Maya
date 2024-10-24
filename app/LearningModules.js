@@ -10,12 +10,12 @@ const LearningModules = () => {
       <AnimatedModule title="Reading" />
       <AnimatedModule title="Listening" />
       <AnimatedModule title="Speaking" onPress={() => navigation.navigate('SpeechRecognition')} />
-      <AnimatedModule title="Writing" />
+      <AnimatedModule title="Writing" onPress={() => navigation.navigate('WritingScreen')}/>
     </View>
   );
 };
 
-// Component for animating module buttons
+// Define the AnimatedModule component
 const AnimatedModule = ({ title, onPress }) => {
   return (
     <TouchableOpacity onPress={onPress} style={styles.moduleButton}>
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-evenly',
     alignItems: 'center',
     padding: 20,
-    backgroundColor: '#fff', // Change background color
+    backgroundColor: '#fff',
   },
   moduleButton: {
     backgroundColor: '#3884fd',
@@ -38,8 +38,8 @@ const styles = StyleSheet.create({
     width: '80%',
     alignItems: 'center',
     borderRadius: 10,
-    elevation: 5, // Add shadow effect for Android
-    shadowColor: '#000', // Add shadow effect for iOS
+    elevation: 5, // For Android shadow effect
+    shadowColor: '#000', // For iOS shadow effect
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.8,
     shadowRadius: 2,
