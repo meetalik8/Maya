@@ -1,6 +1,8 @@
 import { Stack } from "expo-router"; // Using expo-router for navigation
 import React from "react";
 import HindiFlashcards from "./HindiFlashcards"; // Ensure the path is correct
+import AdaptiveQuiz from "./AdaptiveQuiz"; // Import the new Adaptive Quiz screen
+import AdaptiveQuizIntro from "./AdaptiveQuizIntro";
 
 export default function RootLayout() {
   return (
@@ -20,15 +22,21 @@ export default function RootLayout() {
         name="Beginner" 
         options={{ title: "Beginner Lessons" }} // Title for Beginner lessons
       />
-      <Stack.Screen 
-        name="FewWords" 
-        options={{ title: "Learn a Few Words" }} // Title for Few Words
-      />
       
       {/* Register HindiFlashcards screen */}
       <Stack.Screen 
         name="HindiFlashcards" 
         options={{ title: "Hindi Flashcards" }} // Title for Hindi Flashcards
+      />
+
+      {/* Register Adaptive Quiz screen */}
+      <Stack.Screen 
+        name="AdaptiveQuiz" 
+        options={{ title: "Adaptive Hindi Quiz" }} // Title for Adaptive Quiz
+      />
+      <Stack.Screen 
+        name="AdaptiveQuizIntro" 
+        options={{ title: "Adaptive Hindi Quiz Intro" }} // Title for Adaptive Quiz
       />
     </Stack>
   );

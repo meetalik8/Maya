@@ -1,14 +1,8 @@
 import React from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 
-// Define the type for Hindi character data
-interface HindiCharacter {
-  character: string;
-  pronunciation: string;
-}
-
 // Sample data for Hindi characters
-const hindiData: HindiCharacter[] = [
+const hindiData = [
   { character: 'अ', pronunciation: 'a' },
   { character: 'आ', pronunciation: 'aa' },
   { character: 'इ', pronunciation: 'i' },
@@ -23,11 +17,11 @@ const hindiData: HindiCharacter[] = [
   // Add more characters here
 ];
 
-const HindiFlashcards: React.FC = () => {
+const HindiFlashcards = () => {
   return (
     <View style={styles.container}>
       <View style={styles.navbar}>
-        <Text style={styles.navIcon}>☰</Text>
+      <Text style={styles.navIcon}>☰</Text>
         <Image 
           source={require('../assets/logo-nobg.png')} // Adjust the path to your logo
           style={styles.logo} 

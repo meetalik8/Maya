@@ -14,5 +14,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/ProficiencySelection.js", "app/index.js", "app/FewWords.js", "app/HindiFlashcards.js", "app/Beginner.js", "app/_layout.js"  ]
 }
