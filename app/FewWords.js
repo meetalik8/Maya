@@ -3,33 +3,22 @@ import { Text, View, StyleSheet, TouchableOpacity, Image, TextInput } from "reac
 import { useNavigation } from "@react-navigation/native"; 
 import quizData from "../quizdata"; 
 
-interface Option {
-  id: number;
-  text: string;
-  image: any; 
-}
+const quiz = quizData;
 
-interface Question {
-  question: string;
-  options?: Option[];
-  correctAnswerId?: number;
-  correctAnswer?: string;
-}
-
-type QuizData = Question[];
-
-const quiz: QuizData = quizData;
-
-const FewWords: React.FC = () => {
+const FewWords = () => {
   const navigation = useNavigation(); 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [userAnswer, setUserAnswer] = useState("");
-  const [isAnswerCorrect, setIsAnswerCorrect] = useState<boolean | null>(null);
+  const [isAnswerCorrect, setIsAnswerCorrect] = useState(null);
 
-  const handleOptionPress = (optionId: number) => {
-    if (optionId === quiz[currentQuestionIndex].correctAnswerId) {
+  const handleOptionPress = (optionId) => {
+    const currentQuestion = quiz[currentQuestionIndex];
+    if (optionId === currentQuestion.correctAnswerId) {
       setScore(score + 1);
+      setIsAnswerCorrect(true);
+    } else {
+      setIsAnswerCorrect(false);
     }
     goToNextQuestion();
   };
@@ -38,7 +27,7 @@ const FewWords: React.FC = () => {
     const currentQuestion = quiz[currentQuestionIndex];
     if (
       currentQuestion.correctAnswer &&
-      userAnswer.toLowerCase() === currentQuestion.correctAnswer.toLowerCase()
+      userAnswer.trim().toLowerCase() === currentQuestion.correctAnswer.toLowerCase()
     ) {
       setScore(score + 1);
       setIsAnswerCorrect(true);
@@ -60,7 +49,7 @@ const FewWords: React.FC = () => {
     return (
       <View style={styles.container}>
         <Text style={styles.finalScore}>Your Score: {score}</Text>
-        <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
+        <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("Home")}>
           <Text style={styles.arrowText}>Home</Text>
         </TouchableOpacity>
       </View>
@@ -85,12 +74,13 @@ const FewWords: React.FC = () => {
         </View>
       ) : (
         <View style={styles.fillInBlankContainer}>
-          <Text style={styles.fillInBlankText}>_____(Fill in the blank)</Text>
+          <Text style={styles.fillInBlankText}>_(Fill in the blank)</Text>
           <TextInput
             style={styles.input}
             value={userAnswer}
             onChangeText={setUserAnswer}
             placeholder="Type your answer here"
+            autoCapitalize="none" // Prevents auto-capitalization for better matching
           />
           <TouchableOpacity onPress={handleSubmitAnswer}>
             <Text style={styles.submitButton}>Submit</Text>
@@ -102,7 +92,7 @@ const FewWords: React.FC = () => {
           )}
         </View>
       )}
-      <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("index")}>
+      <TouchableOpacity style={styles.arrowButton} onPress={() => navigation.navigate("Home")}>
         <Text style={styles.arrowText}>Home</Text>
       </TouchableOpacity>
     </View>
@@ -119,12 +109,12 @@ const styles = StyleSheet.create({
   question: {
     fontSize: 24,
     marginBottom: 20,
+    textAlign: 'center',
   },
   optionsContainer: {
     flexDirection: "row",
     flexWrap: "wrap",
     justifyContent: "center",
-    alignItems: "center",
   },
   optionButton: {
     backgroundColor: "#F2D16A",
@@ -143,6 +133,7 @@ const styles = StyleSheet.create({
   },
   optionText: {
     color: "#000",
+    textAlign: 'center',
   },
   fillInBlankContainer: {
     alignItems: "center",
@@ -156,6 +147,8 @@ const styles = StyleSheet.create({
     padding: 10,
     color: "#FFF",
     borderRadius: 5,
+    textAlign: "center",
+    width: 100,
   },
   finalScore: {
     fontSize: 24,
@@ -187,4 +180,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default FewWords;
+export default FewWords;

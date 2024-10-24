@@ -1,17 +1,15 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import { Text, View, StyleSheet, TouchableOpacity, Image, Animated, StatusBar } from "react-native";
 import { useNavigation } from "@react-navigation/native"; // Import useNavigation
 
 const WelcomeScreen = () => {
   const navigation = useNavigation(); // Initialize navigation
   const [selectedLanguage, setSelectedLanguage] = useState(null);
-  const scaleValueHindi = new Animated.Value(1);
-  const scaleValueMarathi = new Animated.Value(1);
+  const scaleValueHindi = useRef(new Animated.Value(1)).current;
+  const scaleValueMarathi = useRef(new Animated.Value(1)).current;
 
+  // Avoid updating state inside the animation loop to prevent infinite re-renders
   const handleLanguagePress = (language, scaleValue) => {
-    setSelectedLanguage(language);
-
-    // Animation for the flashcard
     Animated.sequence([
       Animated.timing(scaleValue, {
         toValue: 1.2,
@@ -24,8 +22,10 @@ const WelcomeScreen = () => {
         useNativeDriver: true,
       }),
     ]).start(() => {
-      // Navigate to Proficiency screen after animation completes
-      navigation.navigate("ProficiencySelection");
+      setSelectedLanguage(language); // Set the selected language here
+  
+      // Navigate to AdaptiveQuizIntro and pass the language as a parameter
+      navigation.navigate("AdaptiveQuizIntro", { language });
     });
   };
 
