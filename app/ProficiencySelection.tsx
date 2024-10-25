@@ -75,7 +75,7 @@ export default function ProficiencySelection() {
     if (id) {
       await storeUserProficiency(id, "Few Words");
     }
-    router.push("/FewWords");
+    router.push("/AdaptiveQuizIntro");
   };
 
   return (

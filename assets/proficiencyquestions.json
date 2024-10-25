@@ -1,0 +1,3317 @@
+[
+    {
+      "English": "Hello",
+      "Hindi": "नमस्ते",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Yes",
+      "Hindi": "हाँ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "No",
+      "Hindi": "नहीं",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "What",
+      "Hindi": "क्या",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "How",
+      "Hindi": "कैसे",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "When",
+      "Hindi": "कब",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Where",
+      "Hindi": "कहाँ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Good",
+      "Hindi": "अच्छा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Bad",
+      "Hindi": "खराब",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "That",
+      "Hindi": "वह",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "He",
+      "Hindi": "वह",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "She",
+      "Hindi": "वह",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "It",
+      "Hindi": "यह",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Was",
+      "Hindi": "था",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Is",
+      "Hindi": "है",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Am",
+      "Hindi": "पूर्वाह्न",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Or",
+      "Hindi": "या",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "You",
+      "Hindi": "आप",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "They",
+      "Hindi": "वे",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Them",
+      "Hindi": "उन्हें",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sad",
+      "Hindi": "उदास",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Right",
+      "Hindi": "सही",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Left",
+      "Hindi": "बाएं",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Wrong",
+      "Hindi": "गलत",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Odd",
+      "Hindi": "विषम",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Even",
+      "Hindi": "यहां तक की",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Mom",
+      "Hindi": "माँ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Dad",
+      "Hindi": "पापा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Cousin",
+      "Hindi": "चचेरा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sister",
+      "Hindi": "बहन",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Here",
+      "Hindi": "यहाँ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "There",
+      "Hindi": "वहाँ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Now",
+      "Hindi": "अब",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "If",
+      "Hindi": "अगर",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "But",
+      "Hindi": "लेकिन",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Since",
+      "Hindi": "तब से",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "On",
+      "Hindi": "पर",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "In",
+      "Hindi": "में",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Us",
+      "Hindi": "हम",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Uncle",
+      "Hindi": "चाचा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Aunt",
+      "Hindi": "चाची",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Wish",
+      "Hindi": "इच्छा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Wow",
+      "Hindi": "बहुत खूब",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Some",
+      "Hindi": "कुछ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Few",
+      "Hindi": "कुछ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "All",
+      "Hindi": "सभी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "New",
+      "Hindi": "नया",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Old",
+      "Hindi": "पुराना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Age",
+      "Hindi": "आयु",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "More",
+      "Hindi": "अधिक",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Less",
+      "Hindi": "कम",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Up",
+      "Hindi": "ऊपर",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Down",
+      "Hindi": "नीचे",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Look",
+      "Hindi": "देखना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "See",
+      "Hindi": "देखना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Shine",
+      "Hindi": "चमक",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Allow",
+      "Hindi": "अनुमति दें",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Yuck",
+      "Hindi": "छी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Fever",
+      "Hindi": "बुखार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "May be",
+      "Hindi": "शायद",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Please",
+      "Hindi": "कृपया",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Child",
+      "Hindi": "बच्चा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Dream",
+      "Hindi": "सपना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Flower",
+      "Hindi": "फूल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Heat",
+      "Hindi": "गर्मी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Trust",
+      "Hindi": "विश्वास",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "God",
+      "Hindi": "भगवान",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Love",
+      "Hindi": "प्यार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Music",
+      "Hindi": "संगीत",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Family",
+      "Hindi": "परिवार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Night",
+      "Hindi": "रात",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Bath",
+      "Hindi": "नहाना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Self",
+      "Hindi": "खुद",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Gift",
+      "Hindi": "उपहार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Idea",
+      "Hindi": "विचार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Life",
+      "Hindi": "ज़िंदगी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sky",
+      "Hindi": "आकाश",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Salty",
+      "Hindi": "नमकीन",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Toy",
+      "Hindi": "खिलौने",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Voice",
+      "Hindi": "आवाज़",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Hope",
+      "Hindi": "आशा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Knowledge",
+      "Hindi": "ज्ञान",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Festival",
+      "Hindi": "त्योहार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Ground",
+      "Hindi": "जमीन",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Simple",
+      "Hindi": "सरल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Street",
+      "Hindi": "सड़क",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Window",
+      "Hindi": "खिड़की",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Table",
+      "Hindi": "मेज़",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Chair",
+      "Hindi": "कुर्सी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Book",
+      "Hindi": "किताब",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Pen",
+      "Hindi": "कलम",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Bag",
+      "Hindi": "बैग",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Fruit",
+      "Hindi": "फल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Vegetables",
+      "Hindi": "सब्ज़ियाँ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Water",
+      "Hindi": "पानी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Food",
+      "Hindi": "खाना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Coffee",
+      "Hindi": "कॉफी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Tea",
+      "Hindi": "चाय",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Rice",
+      "Hindi": "चावल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Bread",
+      "Hindi": "ब्रेड",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Milk",
+      "Hindi": "दूध",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Ice",
+      "Hindi": "बर्फ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sugar",
+      "Hindi": "चीनी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Salt",
+      "Hindi": "नमक",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Oil",
+      "Hindi": "तेल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Fire",
+      "Hindi": "आग",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Wind",
+      "Hindi": "हवा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Earth",
+      "Hindi": "पृथ्वी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Star",
+      "Hindi": "तारा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Moon",
+      "Hindi": "चाँद",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sun",
+      "Hindi": "सूरज",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Rain",
+      "Hindi": "बारिश",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Cloud",
+      "Hindi": "बादल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Light",
+      "Hindi": "रोशनी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Dark",
+      "Hindi": "अंधेरा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Color",
+      "Hindi": "रंग",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Shape",
+      "Hindi": "आकार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Size",
+      "Hindi": "आकार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Move",
+      "Hindi": "चलाना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Stop",
+      "Hindi": "रुकना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Start",
+      "Hindi": "शुरू करना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Finish",
+      "Hindi": "समाप्त करना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Count",
+      "Hindi": "गिनती",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Draw",
+      "Hindi": "चित्रित करना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sing",
+      "Hindi": "गाना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Dance",
+      "Hindi": "नृत्य करना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Play",
+      "Hindi": "खेलना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Work",
+      "Hindi": "काम करना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Jump",
+      "Hindi": "कूदना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Walk",
+      "Hindi": "चलना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Run",
+      "Hindi": "दौड़ना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sit",
+      "Hindi": "बैठना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Stand",
+      "Hindi": "खड़ा होना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Baby",
+      "Hindi": "बच्चा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Brother",
+      "Hindi": "भाई",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sister",
+      "Hindi": "बहन",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Friend",
+      "Hindi": "दोस्त",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Stranger",
+      "Hindi": "अजनबी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Neighbor",
+      "Hindi": "पड़ोसी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Teacher",
+      "Hindi": "शिक्षक",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Student",
+      "Hindi": "छात्र",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "School",
+      "Hindi": "स्कूल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "College",
+      "Hindi": "कॉलेज",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "University",
+      "Hindi": "विश्वविद्यालय",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Bookstore",
+      "Hindi": "पुस्तकालय",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Library",
+      "Hindi": "पुस्तकालय",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Classroom",
+      "Hindi": "कक्षा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Homework",
+      "Hindi": "गृहकार्य",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Lesson",
+      "Hindi": "पाठ",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Test",
+      "Hindi": "परीक्षण",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Exam",
+      "Hindi": "परीक्षा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Grade",
+      "Hindi": "ग्रेड",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Project",
+      "Hindi": "परियोजना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Presentation",
+      "Hindi": "प्रस्तुति",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Research",
+      "Hindi": "शोध",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Science",
+      "Hindi": "विज्ञान",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Math",
+      "Hindi": "गणित",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "History",
+      "Hindi": "इतिहास",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Geography",
+      "Hindi": "भूगोल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Language",
+      "Hindi": "भाषा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Art",
+      "Hindi": "कला",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Music",
+      "Hindi": "संगीत",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Drama",
+      "Hindi": "नाटक",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Dance",
+      "Hindi": "नृत्य",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sports",
+      "Hindi": "खेल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Game",
+      "Hindi": "खेल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Competition",
+      "Hindi": "प्रतियोगिता",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Team",
+      "Hindi": "टीम",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Coach",
+      "Hindi": "कोच",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Player",
+      "Hindi": "खिलाड़ी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Victory",
+      "Hindi": "विजय",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Defeat",
+      "Hindi": "हार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Challenge",
+      "Hindi": "चुनौती",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Goal",
+      "Hindi": "लक्ष्य",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Dream",
+      "Hindi": "सपना",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Success",
+      "Hindi": "सफलता",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Failure",
+      "Hindi": "असफलता",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Effort",
+      "Hindi": "प्रयास",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Achievement",
+      "Hindi": "उपलब्धि",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Skill",
+      "Hindi": "कौशल",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Talent",
+      "Hindi": "प्रतिभा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Ability",
+      "Hindi": "क्षमता",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Strength",
+      "Hindi": "ताकत",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Weakness",
+      "Hindi": "कमजोरी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Health",
+      "Hindi": "स्वास्थ्य",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Happiness",
+      "Hindi": "खुशी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Sadness",
+      "Hindi": "उदासी",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Fear",
+      "Hindi": "डर",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Anger",
+      "Hindi": "गुस्सा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Love",
+      "Hindi": "प्यार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Trust",
+      "Hindi": "विश्वास",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Respect",
+      "Hindi": "सम्मान",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Kindness",
+      "Hindi": "दया",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Generosity",
+      "Hindi": "उदारता",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Patience",
+      "Hindi": "धैर्य",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Gratitude",
+      "Hindi": "आभार",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Peace",
+      "Hindi": "शांति",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Joy",
+      "Hindi": "आनंद",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Hope",
+      "Hindi": "आशा",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Wisdom",
+      "Hindi": "ज्ञान",
+      "Difficulty": "Beginner"
+    },
+    {
+      "English": "Brother",
+      "Hindi": "भाई",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Between",
+      "Hindi": "बीच में",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Good night",
+      "Hindi": "शुभ रात्रि",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "thank you",
+      "Hindi": "धन्यवाद",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "pleasure",
+      "Hindi": "आनंद",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "why not",
+      "Hindi": "क्यों नहीं",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I am good",
+      "Hindi": "मैं अच्छा हूँ",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I am well",
+      "Hindi": "मैं ठीक हूं",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "you tell",
+      "Hindi": "आप बताओ",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "look there",
+      "Hindi": "वहाँ देखो",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "may not",
+      "Hindi": "नहीं हो सकता है",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "condition",
+      "Hindi": "स्थिति",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I love you",
+      "Hindi": "मुझे तुमसे प्यार है",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "excuse me",
+      "Hindi": "माफ़ करें",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "help me",
+      "Hindi": "मेरी सहायता करो",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I am tired",
+      "Hindi": "मैं थक गया हूँ",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I am going",
+      "Hindi": "मैं जा रहा हूँ",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "whats up",
+      "Hindi": "क्या चल रहा है",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "miss you",
+      "Hindi": "आपकी याद आ रही है",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I m sorry",
+      "Hindi": "मुझे माफ़ करें",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "language",
+      "Hindi": "भाषा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I hate you",
+      "Hindi": "मुझे आपसे नफ़रत है",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "I am bored",
+      "Hindi": "मुझे ऊबन हो चुकी है",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Laughter",
+      "Hindi": "हँसी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Happiness",
+      "Hindi": "ख़ुशी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Wildlife",
+      "Hindi": "वन्यजीव",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Victory",
+      "Hindi": "विजय",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Knowledge",
+      "Hindi": "ज्ञान",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Freedom",
+      "Hindi": "स्वतंत्रता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Festival",
+      "Hindi": "त्योहार",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "God/Deity",
+      "Hindi": "भगवान/देवता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Education",
+      "Hindi": "शिक्षा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Fragrance",
+      "Hindi": "सुगंध",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Fairies",
+      "Hindi": "परियों",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "To meet",
+      "Hindi": "भेंट करना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Decision",
+      "Hindi": "फ़ैसला",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Journey",
+      "Hindi": "यात्रा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Kingdom",
+      "Hindi": "साम्राज्य",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Fearless",
+      "Hindi": "निडर",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Illusion",
+      "Hindi": "माया",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Blessing",
+      "Hindi": "आशीर्वाद",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Studies",
+      "Hindi": "अध्ययन करते हैं",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Teacher",
+      "Hindi": "अध्यापक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Student",
+      "Hindi": "विद्यार्थी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Curriculum",
+      "Hindi": "पाठ्यक्रम",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Professor",
+      "Hindi": "प्रोफ़ेसर",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "University",
+      "Hindi": "विश्वविद्यालय",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Library",
+      "Hindi": "पुस्तकालय",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Greeting",
+      "Hindi": "अभिवादन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Morning",
+      "Hindi": "सुबह",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Evening",
+      "Hindi": "शाम",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Success",
+      "Hindi": "सफलता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Problem",
+      "Hindi": "संकट",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Accused",
+      "Hindi": "आरोपी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Certain",
+      "Hindi": "निश्चित",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Diction",
+      "Hindi": "शब्द-चयन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Metrics",
+      "Hindi": "मेट्रिक्स",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Trachea",
+      "Hindi": "ट्रेकिआ",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Velaric",
+      "Hindi": "वेलारिक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Whereby",
+      "Hindi": "जिसके तहत",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Assess",
+      "Hindi": "आकलन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Emphasis",
+      "Hindi": "ज़ोर",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Insights",
+      "Hindi": "अंतर्दृष्टि",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Literary",
+      "Hindi": "साहित्यिक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Luminous",
+      "Hindi": "चमकदार",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Peculiar",
+      "Hindi": "विचित्र",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Friendship",
+      "Hindi": "मित्रता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Adventure",
+      "Hindi": "साहसिकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Tradition",
+      "Hindi": "परंपरा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Responsibility",
+      "Hindi": "ज़िम्मेदारी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Motivation",
+      "Hindi": "प्रेरणा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Creativity",
+      "Hindi": "रचनात्मकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Enthusiasm",
+      "Hindi": "उत्साह",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Satisfaction",
+      "Hindi": "संतोष",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Trust",
+      "Hindi": "विश्वास",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Connection",
+      "Hindi": "संबंध",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Collaboration",
+      "Hindi": "सहयोग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Determination",
+      "Hindi": "दृढ़ संकल्प",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Reflection",
+      "Hindi": "प्रतिबिंब",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Inspiration",
+      "Hindi": "प्रेरणा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Exploration",
+      "Hindi": "अन्वेषण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Transformation",
+      "Hindi": "परिवर्तन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Awareness",
+      "Hindi": "जागरूकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Understanding",
+      "Hindi": "समझ",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Growth",
+      "Hindi": "विकास",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Communication",
+      "Hindi": "संचार",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Strategy",
+      "Hindi": "रणनीति",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Observation",
+      "Hindi": "अवलोकन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Curiosity",
+      "Hindi": "जिज्ञासा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Resilience",
+      "Hindi": "लचीलापन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Preparation",
+      "Hindi": "तैयारी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Organization",
+      "Hindi": "संगठन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Commitment",
+      "Hindi": "प्रतिबद्धता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Progress",
+      "Hindi": "प्रगति",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Wisdom",
+      "Hindi": "बुद्धिमत्ता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Flexibility",
+      "Hindi": "लचीलापन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Authenticity",
+      "Hindi": "प्रामाणिकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Inclusiveness",
+      "Hindi": "समावेशिता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Patience",
+      "Hindi": "धैर्य",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Reliability",
+      "Hindi": "विश्वसनीयता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Transparency",
+      "Hindi": "पारदर्शिता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Accountability",
+      "Hindi": "जवाबदेही",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Initiative",
+      "Hindi": "पहल",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Sustainability",
+      "Hindi": "स्थिरता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Productivity",
+      "Hindi": "उत्पादकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Influence",
+      "Hindi": "प्रभाव",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Respect",
+      "Hindi": "सम्मान",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Support",
+      "Hindi": "समर्थन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Empathy",
+      "Hindi": "सहानुभूति",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Participation",
+      "Hindi": "भागीदारी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Dedication",
+      "Hindi": "समर्पण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Clarity",
+      "Hindi": "स्पष्टता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Efficiency",
+      "Hindi": "दक्षता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Appreciation",
+      "Hindi": "सराहना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Diversity",
+      "Hindi": "विविधता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Involvement",
+      "Hindi": "भागीदारी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Conflict",
+      "Hindi": "संघर्ष",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Critique",
+      "Hindi": "आलोचना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Collaboration",
+      "Hindi": "सहयोग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Creativity",
+      "Hindi": "रचनात्मकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Innovation",
+      "Hindi": "नवाचार",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Emotional",
+      "Hindi": "भावनात्मक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Thoughtful",
+      "Hindi": "विचारशील",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Philosophy",
+      "Hindi": "दर्शनशास्त्र",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Obligation",
+      "Hindi": "अनुशासन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Intuition",
+      "Hindi": "स्वाभाविक ज्ञान",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Crisis",
+      "Hindi": "संकट",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Perception",
+      "Hindi": "धारणा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Networking",
+      "Hindi": "नेटवर्किंग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Analysis",
+      "Hindi": "विश्लेषण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Significance",
+      "Hindi": "महत्व",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Achievement",
+      "Hindi": "उपलब्धि",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Creativity",
+      "Hindi": "रचनात्मकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Focus",
+      "Hindi": "केंद्रित करना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Vision",
+      "Hindi": "दृष्टि",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Supportive",
+      "Hindi": "समर्थक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Endeavor",
+      "Hindi": "प्रयास",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Collaboration",
+      "Hindi": "सहयोग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Curiosity",
+      "Hindi": "जिज्ञासा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Insightful",
+      "Hindi": "अंतर्दृष्टिपूर्ण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Dialogue",
+      "Hindi": "संवाद",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Contribute",
+      "Hindi": "योगदान देना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Synergy",
+      "Hindi": "संयोग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Aspiration",
+      "Hindi": "महत्वाकांक्षा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Reflection",
+      "Hindi": "परावर्तन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Engagement",
+      "Hindi": "सक्रिय भागीदारी",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Accomplishment",
+      "Hindi": "सफलता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Perspective",
+      "Hindi": "दृष्टिकोण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Trustworthiness",
+      "Hindi": "विश्वासयोग्यता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Foresight",
+      "Hindi": "पूर्वदृष्टि",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Tolerance",
+      "Hindi": "सहिष्णुता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Motivation",
+      "Hindi": "प्रेरणा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Connection",
+      "Hindi": "संबंध",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Innovation",
+      "Hindi": "नवाचार",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Challenge",
+      "Hindi": "चुनौती",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Narrative",
+      "Hindi": "कथा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Acquisition",
+      "Hindi": "अधिग्रहण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Compromise",
+      "Hindi": "समझौता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Imagination",
+      "Hindi": "कल्पना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Exploration",
+      "Hindi": "अन्वेषण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Influence",
+      "Hindi": "प्रभाव",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Collaboration",
+      "Hindi": "सहयोग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Astonishing",
+      "Hindi": "आश्चर्यजनक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Consequence",
+      "Hindi": "परिणाम",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Sincere",
+      "Hindi": "ईमानदार",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Confusion",
+      "Hindi": "भ्रम",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Essential",
+      "Hindi": "आवश्यक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Diligent",
+      "Hindi": "मेहनती",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Frustration",
+      "Hindi": "निराशा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Independence",
+      "Hindi": "स्वतंत्रता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Challenge",
+      "Hindi": "चुनौती",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Preference",
+      "Hindi": "पसंद",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Perseverance",
+      "Hindi": "दृढ़ता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Adaptation",
+      "Hindi": "अनुकूलन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Compassion",
+      "Hindi": "करुणा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Intelligence",
+      "Hindi": "बुद्धिमत्ता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Motivation",
+      "Hindi": "प्रेरणा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Cooperation",
+      "Hindi": "सहयोग",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Reputation",
+      "Hindi": "प्रतिष्ठा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Exploration",
+      "Hindi": "अन्वेषण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Fundamental",
+      "Hindi": "मौलिक",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Guidance",
+      "Hindi": "मार्गदर्शन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Hesitation",
+      "Hindi": "हिचकिचाहट",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Negotiate",
+      "Hindi": "बातचीत करना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Pursuit",
+      "Hindi": "प्रयास",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Resolution",
+      "Hindi": "समाधान",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Stimulation",
+      "Hindi": "उत्तेजना",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Application",
+      "Hindi": "आवेदन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Concentration",
+      "Hindi": "ध्यान",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Crisis",
+      "Hindi": "संकट",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Foundation",
+      "Hindi": "नींव",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Management",
+      "Hindi": "प्रबंधन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Presentation",
+      "Hindi": "प्रस्तुति",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Relevance",
+      "Hindi": "प्रासंगिकता",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Specification",
+      "Hindi": "विनिर्देश",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Interpretation",
+      "Hindi": "व्याख्या",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Validation",
+      "Hindi": "सत्यापन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Observation",
+      "Hindi": "अवलोकन",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Expectation",
+      "Hindi": "अपेक्षा",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Transformation",
+      "Hindi": "रूपांतरण",
+      "Difficulty": "Intermediate"
+    },
+    {
+      "English": "Abundance",
+      "Hindi": "प्रचुरता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Adversity",
+      "Hindi": "विपत्ति",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Ambiguity",
+      "Hindi": "अस्पष्टता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Anomaly",
+      "Hindi": "असामान्यता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Apathy",
+      "Hindi": "उदासीनता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Assertion",
+      "Hindi": "दावा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Benevolence",
+      "Hindi": "दयालुता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Cognition",
+      "Hindi": "संज्ञान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Collaboration",
+      "Hindi": "सहयोग",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Connotation",
+      "Hindi": "अर्थविस्तार",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Conundrum",
+      "Hindi": "पहेली",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Decipher",
+      "Hindi": "व्याख्या करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Deficiency",
+      "Hindi": "कमी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Diligence",
+      "Hindi": "परिश्रम",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Dissonance",
+      "Hindi": "असंगति",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Empathy",
+      "Hindi": "सहानुभूति",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Endeavor",
+      "Hindi": "प्रयास",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Enigma",
+      "Hindi": "पहेली",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Ephemeral",
+      "Hindi": "क्षणिक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Equilibrium",
+      "Hindi": "संतुलन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Euphoria",
+      "Hindi": "उत्साह",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Exacerbate",
+      "Hindi": "बढ़ाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Extrapolate",
+      "Hindi": "अनुमान लगाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Fortitude",
+      "Hindi": "साहस",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Futility",
+      "Hindi": "निरर्थकता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Grievance",
+      "Hindi": "शिकायत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Harmony",
+      "Hindi": "सामंजस्य",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Hypothesis",
+      "Hindi": "परिकल्पना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Implication",
+      "Hindi": "निहितार्थ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Inertia",
+      "Hindi": "जड़ता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Innovation",
+      "Hindi": "नवाचार",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Insightful",
+      "Hindi": "अंतर्दृष्टिपूर्ण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Integrity",
+      "Hindi": "सत्यनिष्ठा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Juxtaposition",
+      "Hindi": "संगति",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Metaphor",
+      "Hindi": "उपमा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Nostalgia",
+      "Hindi": "पुरानी यादें",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Paradigm",
+      "Hindi": "मॉडल",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Perception",
+      "Hindi": "धारणा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Prodigy",
+      "Hindi": "प्रतिभा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Quantitative",
+      "Hindi": "मात्रात्मक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Rhetoric",
+      "Hindi": "बौद्धिक शैली",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Resilience",
+      "Hindi": "लचीलापन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Serendipity",
+      "Hindi": "संयोग",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Simplicity",
+      "Hindi": "सरलता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Skepticism",
+      "Hindi": "संशयवाद",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Solitude",
+      "Hindi": "एकाकीपन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Subjective",
+      "Hindi": "व्यक्तिगत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Substantiate",
+      "Hindi": "साक्ष्य प्रस्तुत करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Synergy",
+      "Hindi": "सहयोगात्मकता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Tenacity",
+      "Hindi": "दृढ़ता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Transcend",
+      "Hindi": "पार करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Transparency",
+      "Hindi": "पारदर्शिता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Ubiquity",
+      "Hindi": "सर्वव्यापकता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Unprecedented",
+      "Hindi": "बेजोड़",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Viability",
+      "Hindi": "कार्यक्षमता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Vulnerability",
+      "Hindi": "संवेदनशीलता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Whimsical",
+      "Hindi": "मनमौजी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Zeal",
+      "Hindi": "उत्साह",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Abrogate",
+      "Hindi": "रद्द करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Alleviate",
+      "Hindi": "कम करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Anticipate",
+      "Hindi": "पूर्वानुमान करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Articulate",
+      "Hindi": "स्पष्टता से बताना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Attenuate",
+      "Hindi": "घटाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Circumvent",
+      "Hindi": "बचना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Coalesce",
+      "Hindi": "मिलाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Collate",
+      "Hindi": "एकत्र करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Concur",
+      "Hindi": "सहमत होना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Conflate",
+      "Hindi": "मिलाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Defenestrate",
+      "Hindi": "खिड़की से बाहर फेंकना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Delineate",
+      "Hindi": "रेखांकन करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Derive",
+      "Hindi": "निकालना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Disparate",
+      "Hindi": "भिन्न",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Disseminate",
+      "Hindi": "फैलाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Enunciate",
+      "Hindi": "स्पष्ट रूप से कहना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Escalate",
+      "Hindi": "बढ़ाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Facilitate",
+      "Hindi": "आसान बनाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Formulate",
+      "Hindi": "तैयार करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Impede",
+      "Hindi": "रोकना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Invalidate",
+      "Hindi": "अमान्य करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Mitigate",
+      "Hindi": "कम करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Negotiate",
+      "Hindi": "बातचीत करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Obfuscate",
+      "Hindi": "अस्पष्ट करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Perpetuate",
+      "Hindi": "स्थायी बनाना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Postulate",
+      "Hindi": "पूर्वानुमान करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Procrastinate",
+      "Hindi": "टालना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Rectify",
+      "Hindi": "सुधारना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Reiterate",
+      "Hindi": "दोहराना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Retrospect",
+      "Hindi": "पीछे देखना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Subvert",
+      "Hindi": "नष्ट करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Transmute",
+      "Hindi": "रूपांतरित करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Validate",
+      "Hindi": "सत्यापित करना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Altruism",
+      "Hindi": "परार्थवाद",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Avarice",
+      "Hindi": "लोभ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Capricious",
+      "Hindi": "अनियमित",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Clandestine",
+      "Hindi": "गुप्त",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Copious",
+      "Hindi": "प्रचुर",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Dearth",
+      "Hindi": "कमी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Eloquent",
+      "Hindi": "स्पष्ट",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Enigmatic",
+      "Hindi": "रहस्यमय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Equitable",
+      "Hindi": "न्यायपूर्ण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Fervent",
+      "Hindi": "गर्मजोशी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Frivolous",
+      "Hindi": "तुच्छ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Harbinger",
+      "Hindi": "अग्रदूत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Ineffable",
+      "Hindi": "अवर्णनीय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Lethargic",
+      "Hindi": "सुस्त",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Munificent",
+      "Hindi": "उदार",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Nefarious",
+      "Hindi": "दुष्ट",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Obsequious",
+      "Hindi": "चापलूस",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Paradigmatic",
+      "Hindi": "उदाहरणात्मक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Perfunctory",
+      "Hindi": "औपचारिक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Quixotic",
+      "Hindi": "काल्पनिक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Redundant",
+      "Hindi": "अतिरिक्त",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Salient",
+      "Hindi": "प्रमुख",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Sanguine",
+      "Hindi": "आशावादी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Stalwart",
+      "Hindi": "दृढ़",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Tenuous",
+      "Hindi": "कमजोर",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Ubiquitous",
+      "Hindi": "सर्वव्यापी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Unobtrusive",
+      "Hindi": "ध्यान आकर्षित न करने वाला",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Vicarious",
+      "Hindi": "प्रत्यायित",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Voracious",
+      "Hindi": "लालची",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Wistful",
+      "Hindi": "चिंताग्रस्त",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Zealous",
+      "Hindi": "उत्साही",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Autonomous",
+      "Hindi": "स्वतंत्र",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Bombastic",
+      "Hindi": "भव्य",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Capstone",
+      "Hindi": "शिखर",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Dichotomy",
+      "Hindi": "द्वैत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Euphemism",
+      "Hindi": "दयालु शब्द",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Idiosyncrasy",
+      "Hindi": "विशेषता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Juxtaposition",
+      "Hindi": "तुलना",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Paradigm",
+      "Hindi": "ढांचा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Quagmire",
+      "Hindi": "दलदल",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Rhapsody",
+      "Hindi": "आनंद का अनुभव",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Synthesis",
+      "Hindi": "संश्लेषण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Transgression",
+      "Hindi": "उल्लंघन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Zenith",
+      "Hindi": "उच्चतम बिंदु",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Aesthetic",
+      "Hindi": "सौंदर्यशास्त्र",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Ethereal",
+      "Hindi": "दिव्य",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Metamorphosis",
+      "Hindi": "रूपांतरण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Obsolete",
+      "Hindi": "अप्रचलित",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Pragmatic",
+      "Hindi": "व्यावहारिक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Good morning",
+      "Hindi": "शुभ प्रभात",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Good Evening",
+      "Hindi": "शुभ संध्या",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "how are you",
+      "Hindi": "आप कैसे हैं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "nice to meet you",
+      "Hindi": "आपसे मिलकर अच्छा लगा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "what are you doing",
+      "Hindi": "आप क्या कर रहे हो",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "where are you from",
+      "Hindi": "आप कहाँ से हैं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "you are welcome",
+      "Hindi": "आपका स्वागत है",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "have a nice day",
+      "Hindi": "आपका दिन शुभ हो",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "see you later",
+      "Hindi": "बाद में मिलते हैं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "this is an emergency",
+      "Hindi": "यह एक आपातकालीन स्थिति है",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "once upon a time",
+      "Hindi": "एक समय की बात है",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "enjoy your meal",
+      "Hindi": "अपने भोजन का आनंद लें",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "get well soon",
+      "Hindi": "जल्द स्वस्थ हो जाओ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "god bless you",
+      "Hindi": "भगवान आपका भला करे",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "how old are you",
+      "Hindi": "आपकी आयु कितनी है",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "who are you",
+      "Hindi": "आप कौन हैं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "where are you",
+      "Hindi": "आप कहां हैं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "are you okay",
+      "Hindi": "तुम ठीक हो",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "are you hungry",
+      "Hindi": "क्या आप भूखे हैं?",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "how was your day",
+      "Hindi": "आपका दिन कैसा रहा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "same to you",
+      "Hindi": "आपको भी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "I understand",
+      "Hindi": "मैं समझता हूँ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "I don't care",
+      "Hindi": "मुझे परवाह नहीं है",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "I don't know",
+      "Hindi": "मुझें नहीं पता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "you are beautiful",
+      "Hindi": "तुम सुंदर हो",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "I admire you",
+      "Hindi": "मैं तुम्हारा प्रशंसक हूं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Education/learning",
+      "Hindi": "शिक्षा/शिक्षण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Primary Education",
+      "Hindi": "प्राथमिक शिक्षा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Secondary Education",
+      "Hindi": "माध्यमिक शिक्षा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Traditional school",
+      "Hindi": "पारंपरिक विद्यालय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Administrative Staff",
+      "Hindi": "प्रशासनिक कर्मचारी - वर्ग",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "Education Minister",
+      "Hindi": "शिक्षा मंत्री",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "encyclopedias",
+      "Hindi": "विश्वकोषों",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "imaginative",
+      "Hindi": "कल्पनाशील",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "indescribable",
+      "Hindi": "अवर्णनीय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "international",
+      "Hindi": "अंतरराष्ट्रीय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "multicultural",
+      "Hindi": "बहुसांस्कृतिक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "postmodernism",
+      "Hindi": "उत्तर आधुनिकतावाद",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "relationships",
+      "Hindi": "संबंध",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "revolutionary",
+      "Hindi": "क्रांतिकारी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "traditional",
+      "Hindi": "परंपरागत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "transnational",
+      "Hindi": "अंतरराष्ट्रीय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "unpredictable",
+      "Hindi": "अप्रत्याशित",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "affectionate",
+      "Hindi": "स्नेही",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "conventional",
+      "Hindi": "पारंपरिक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "hallucinations",
+      "Hindi": "दु: स्वप्न",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "responsibility",
+      "Hindi": "ज़िम्मेदारी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "simultaneous",
+      "Hindi": "एक साथ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "systematical",
+      "Hindi": "व्यवस्थित",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "autobiographies",
+      "Hindi": "आत्मकथाएं",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "characteristics",
+      "Hindi": "विशेषताएँ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "disillusionment",
+      "Hindi": "मोहभंग",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "inferiorisation",
+      "Hindi": "अधीनता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "inquiries",
+      "Hindi": "जांच",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "interpersonal",
+      "Hindi": "अंतर-व्यक्तिगत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "metaphors",
+      "Hindi": "उपमा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "philosophy",
+      "Hindi": "दर्शनशास्त्र",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "persuasion",
+      "Hindi": "मनाने की कला",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "reinforcement",
+      "Hindi": "मजबूती",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "significant",
+      "Hindi": "महत्वपूर्ण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "sophisticated",
+      "Hindi": "जटिल",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "surveillance",
+      "Hindi": "निगरानी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "technology",
+      "Hindi": "प्रविधि",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "universities",
+      "Hindi": "विश्वविद्यालय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "adaptation",
+      "Hindi": "अनुकूलन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "analysis",
+      "Hindi": "विश्लेषण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "application",
+      "Hindi": "आवेदन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "classification",
+      "Hindi": "वर्गीकरण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "communication",
+      "Hindi": "संचार",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "concepts",
+      "Hindi": "विचार",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "criteria",
+      "Hindi": "मानदंड",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "data",
+      "Hindi": "डेटा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "evolution",
+      "Hindi": "विकास",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "interaction",
+      "Hindi": "अंतरक्रिया",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "interpretation",
+      "Hindi": "व्याख्या",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "manipulation",
+      "Hindi": "हेरफेर",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "research",
+      "Hindi": "अनुसंधान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "synthesis",
+      "Hindi": "संश्लेषण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "theory",
+      "Hindi": "सिद्धांत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "variables",
+      "Hindi": "चर",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "differentiation",
+      "Hindi": "भिन्नता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "elaboration",
+      "Hindi": "विस्तार",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "implications",
+      "Hindi": "निहितार्थ",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "information",
+      "Hindi": "जानकारी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "investigation",
+      "Hindi": "जांच",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "knowledge",
+      "Hindi": "ज्ञान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "perspective",
+      "Hindi": "दृष्टिकोण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "principles",
+      "Hindi": "सिद्धांत",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "statistics",
+      "Hindi": "सांख्यिकी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "transformation",
+      "Hindi": "रूपांतरण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "interpretative",
+      "Hindi": "व्याख्यात्मक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "indigenous",
+      "Hindi": "देशज",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "synergy",
+      "Hindi": "सहयोगात्मकता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "narrative",
+      "Hindi": "कथा",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "interdisciplinary",
+      "Hindi": "अंतरविषयक",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "contribution",
+      "Hindi": "योगदान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "accomplishment",
+      "Hindi": "अधिग्रहण",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "accessibility",
+      "Hindi": "सुलभता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "agriculture",
+      "Hindi": "कृषि",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "anthropology",
+      "Hindi": "मानवशास्त्र",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "architecture",
+      "Hindi": "वास्तुकला",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "biochemistry",
+      "Hindi": "जैव रसायन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "biotechnology",
+      "Hindi": "जैव प्रौद्योगिकी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "calculus",
+      "Hindi": "कलन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "chemistry",
+      "Hindi": "रसायन",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "computational",
+      "Hindi": "सांख्यिकीय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "engineering",
+      "Hindi": "अभियांत्रिकी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "environmental",
+      "Hindi": "पर्यावरणीय",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "ethics",
+      "Hindi": "नैतिकता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "finance",
+      "Hindi": "वित्त",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "geography",
+      "Hindi": "भूगोल",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "geology",
+      "Hindi": "भूविज्ञान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "history",
+      "Hindi": "इतिहास",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "literature",
+      "Hindi": "साहित्य",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "mathematics",
+      "Hindi": "गणित",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "meteorology",
+      "Hindi": "मौसम विज्ञान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "philosophy",
+      "Hindi": "दर्शनशास्त्र",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "physics",
+      "Hindi": "भौतिकी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "psychology",
+      "Hindi": "मनोविज्ञान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "sociology",
+      "Hindi": "सामाजिक विज्ञान",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "statistics",
+      "Hindi": "सांख्यिकी",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "sustainability",
+      "Hindi": "स्थिरता",
+      "Difficulty": "Advanced"
+    },
+    {
+      "English": "technology",
+      "Hindi": "प्रौद्योगिकी",
+      "Difficulty": "Advanced"
+    }
+  ]

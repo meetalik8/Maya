@@ -14,11 +14,21 @@ export default function RootLayout() {
           name="ProficiencySelection"
           options={{ headerShown: false }}
         />
+        <Stack.Screen
+          name="AdaptiveQuizIntro"
+          options={{ headerShown: false }}
+        />
+        <Stack.Screen
+          name="AdaptiveQuiz"
+          options={{ headerShown: false }}
+        />
+
         <Stack.Screen name="Beginner" options={{ headerShown: false }} />
         <Stack.Screen name="FewWords" options={{ headerShown: false }} />
 
         <Stack.Screen name="HindiFlashcards" options={{ headerShown: false }} />
         <Stack.Screen name="Home" options={{ headerShown: false }} />
+
         <Stack.Screen name="Chat" options={{ headerShown: false }} />
         <Stack.Screen name="AddChat" options={{ headerShown: false }} />
         <Stack.Screen name="ChatScreen" options={{ headerShown: false }} />
