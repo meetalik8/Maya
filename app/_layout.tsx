@@ -21,6 +21,7 @@ export default function RootLayout() {
         <Stack.Screen name="Home" options={{ headerShown: false }} />
         <Stack.Screen name="Chat" options={{ headerShown: false }} />
         <Stack.Screen name="AddChat" options={{ headerShown: false }} />
+        <Stack.Screen name="ChatScreen" options={{ headerShown: false }} />
       </Stack>
     </Provider>
   );

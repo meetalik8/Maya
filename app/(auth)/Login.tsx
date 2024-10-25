@@ -44,10 +44,18 @@ const Login = () => {
               dispatch(SET_USER(docSnap.data()));
               await AsyncStorage.setItem("userId", userCred.user.uid);
               console.log("User ID stored in AsyncStorage");
-              router.push("/Choice");
+              if (
+                docSnap.data().proficiency !== null &&
+                docSnap.data().proficiency !== undefined
+              ) {
+                router.push("/Home");
+              } else {
+                router.push("/ProficiencySelection");
+              }
             }
           }
-        }).catch((err) => {
+        })
+        .catch((err) => {
           console.log("Error: ", err.message);
           if (err.message.includes("invalid-credential")) {
             setAlert(true);

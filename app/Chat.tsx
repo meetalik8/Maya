@@ -9,19 +9,57 @@ import {
   ScrollView,
   ActivityIndicator,
 } from "react-native";
-import React, {useState} from "react";
+import React, { useLayoutEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import { FontAwesome5, Ionicons, MaterialIcons } from "@expo/vector-icons";
-import { router } from "expo-router";
+import { router, useNavigation } from "expo-router";
+import {
+  collection,
+  onSnapshot,
+  orderBy,
+  query,
+  QuerySnapshot,
+} from "firebase/firestore";
+import { firestoreDB } from "@/config/firebase.config";
+
+interface ChatRoom {
+  _id: string;
+  chatName: string;
+}
 
 const Chat = () => {
   const user = useSelector((state) => state.user.user);
-  const [isLoading, setisLoading] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+  const [chats, setChats] = useState(null);
+
+  useLayoutEffect(() => {
+    const chatQuery = query(
+      collection(firestoreDB, "chats"),
+      orderBy("_id", "desc")
+    );
+
+
+    // this is what makes things reload automatically when new thing is added
+    const unsubscribe = onSnapshot(
+      chatQuery,
+      (querySnapshot: QuerySnapshot) => {
+        const chatRooms: ChatRoom[] = querySnapshot.docs.map(
+          (doc) => doc.data() as ChatRoom
+        );
+       console.log("Fetched chat rooms:", chatRooms);
+       setChats(chatRooms);
+       setIsLoading(false);
+      }
+    );
+    // returning unsubscribe function to stop listening to updates
+    return unsubscribe;
+  }, []);
+
   console.log("Logged User", user);
 
-  const handleAddChat = ()=> {
+  const handleAddChat = () => {
     router.push("/AddChat");
-  }
+  };
   return (
     <View style={styles.container}>
       <SafeAreaView style={styles.safeArea}>
@@ -45,15 +83,19 @@ const Chat = () => {
             </View>
 
             {isLoading ? (
-              <>
-                <View>
-                  <ActivityIndicator size={"large"} color={"#43C651"} />
-                </View>
-              </>
+              <View>
+                <ActivityIndicator size={"large"} color={"#43C651"} />
+              </View>
             ) : (
               <>
-                <MessageCard />
-                </>
+                {chats && chats.length > 0 ? (
+                  chats.map((room) => (
+                    <MessageCard key={room._id} room={room} />
+                  ))
+                ) : (
+                  <Text>No chats available</Text>
+                )}
+              </>
             )}
           </View>
         </ScrollView>
@@ -62,27 +104,31 @@ const Chat = () => {
   );
 };
 
-const MessageCard=()=>{
-    return (
-      <TouchableOpacity style={styles.message}>
-
-        {/* IMAGE */}
-        <TouchableOpacity style={styles.profile}>
-          <MaterialIcons name="group" size={25} color={"#6c6d83"} />
-        </TouchableOpacity>
-        
-        {/* CONTENT */}
-        <View style={styles.Group}>
-        <Text style={styles.textbox}>
-         Message Title
-        </Text>
-        <Text style={styles.messageText}>
-            Message Title
-        </Text>
-        </View>
-      </TouchableOpacity>
-    );
+interface MessageCardProps {
+  room: ChatRoom;
 }
+const MessageCard: React.FC<MessageCardProps> = ({ room }) => {
+  const navigation = useNavigation();
+  return (
+    <TouchableOpacity
+      onPress={() => navigation.navigate("ChatScreen", { room: room })}
+      style={styles.message}
+    >
+      {/* IMAGE */}
+      <TouchableOpacity style={styles.profile}>
+        <MaterialIcons name="group" size={25} color={"#6c6d83"} />
+      </TouchableOpacity>
+
+      {/* CONTENT */}
+      <View style={styles.Group}>
+        {/* Displaying the chat room name */}
+        <Text style={styles.textbox}>{room.chatName}</Text>
+        <Text style={styles.messageText}>Click to join chat!</Text>
+      </View>
+    </TouchableOpacity>
+  );
+};
+
 export default Chat;
 
 const width = Dimensions.get("window").width;
@@ -93,14 +139,14 @@ const styles = StyleSheet.create({
     paddingHorizontal: 0,
     paddingVertical: 10,
   },
-  textbox:{
+  textbox: {
     color: "#333",
-    fontWeight:"bold",
+    fontWeight: "bold",
     textTransform: "capitalize",
     fontSize: 15,
   },
-  messageText:{
-    color:"#000",
+  messageText: {
+    color: "#000",
     fontSize: 10,
   },
   safeArea: {
@@ -114,11 +160,11 @@ const styles = StyleSheet.create({
     alignItems: "center",
     paddingHorizontal: 20,
     paddingVertical: 20,
-    backgroundColor: "#fff", 
+    backgroundColor: "#fff",
   },
   logo: {
-    height: 40, 
-    width: 100, 
+    height: 40,
+    width: 100,
   },
   profile: {
     height: 50,
@@ -143,13 +189,13 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   title: {
-    fontWeight:"bold",
+    fontWeight: "bold",
     fontSize: 20,
   },
   Group: {
-    flex:1,
+    flex: 1,
     alignItems: "flex-start",
-    justifyContent:"center",
-    marginLeft : 10,
+    justifyContent: "center",
+    marginLeft: 10,
   },
 });
