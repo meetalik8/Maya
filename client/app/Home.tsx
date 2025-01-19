@@ -42,6 +42,9 @@ export default function HomePage() {
     fetchUserIdAndData();
   }, []);
 
+  const handleChatBot=()=> {
+    router.push("/ChatBot");
+  }
   const handleChat=() =>{
     router.push("/Chat");
   }
@@ -123,7 +126,12 @@ export default function HomePage() {
       </TouchableOpacity>
       <TouchableOpacity style={styles.startButton}>
         <Text style={styles.startButtonText} onPress={handleChat}>
-         Community
+          Community
+        </Text>
+      </TouchableOpacity>
+      <TouchableOpacity style={styles.startButton}>
+        <Text style={styles.startButtonText} onPress={handleChatBot}>
+          ChatBot
         </Text>
       </TouchableOpacity>
     </ScrollView>
@@ -206,6 +214,7 @@ const styles = StyleSheet.create({
     padding: 15,
     borderRadius: 10,
     alignItems: "center",
+    marginBottom: 10,
   },
   startButtonText: {
     color: "#FFFFFF",

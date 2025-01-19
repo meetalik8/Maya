@@ -6,7 +6,7 @@ import { doc, setDoc, getDoc } from "firebase/firestore";
 import { router } from "expo-router";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useSelector } from "react-redux";
-import { useNavigation } from "@react-navigation/native";
+// import { useNavigation } from "@react-navigation/native";
 
 const localImage = require("../assets/images/logo.png");
 
@@ -16,7 +16,6 @@ export default function ProficiencySelection() {
   const [content, setContent] = useState<any[]>([]);
   const [userId, setUserId] = useState<string | null>(null);
   const user = useSelector((state: any) => state.user);
-  const navigation = useNavigation();
 
   useEffect(() => {
     const fetchUserData = async () => {

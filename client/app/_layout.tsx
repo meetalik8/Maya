@@ -18,10 +18,8 @@ export default function RootLayout() {
           name="AdaptiveQuizIntro"
           options={{ headerShown: false }}
         />
-        <Stack.Screen
-          name="AdaptiveQuiz"
-          options={{ headerShown: false }}
-        />
+        <Stack.Screen name="AdaptiveQuiz" options={{ headerShown: false }} />
+        <Stack.Screen name="ChatBot" options={{ headerShown: false }} />
 
         <Stack.Screen name="Beginner" options={{ headerShown: false }} />
         <Stack.Screen name="FewWords" options={{ headerShown: false }} />
